@@ -7,8 +7,8 @@ This project evaluates three machine learning paradigms—Neural Networks (NN), 
 The main goal of this project is to identify which machine learning model provides the best performance for handwritten character recognition, and explore real-world applications such as grading, form processing, and warehouse automation.
 
 ## Datasets Used
-MNIST Dataset: Handwritten digits (0-9)
-EMNIST Dataset: Handwritten alphabet characters (A-Z)
+- MNIST Dataset: Handwritten digits (0-9)
+- EMNIST Dataset: Handwritten alphabet characters (A-Z)
 
 ## Models Implemented
 **Neural Network (NN):**  A fully connected network with 784 input neurons, two hidden layers, and an output layer with 10 neurons.
